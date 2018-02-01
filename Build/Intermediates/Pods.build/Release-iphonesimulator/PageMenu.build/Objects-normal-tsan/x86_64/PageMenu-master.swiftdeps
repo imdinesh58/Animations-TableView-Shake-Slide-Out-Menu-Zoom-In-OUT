@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "88eba133ad7bdde23ba9c7938b23fb62"
+build_time: [1516614357, 83400000]
+inputs:
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/PageMenu/Classes/CAPSPageMenu+Options.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/PageMenu/Classes/CAPSPageMenu+UIConfiguration.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/PageMenu/Classes/CAPSPageMenu+UIGestureRecognizerDelegate.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/PageMenu/Classes/CAPSPageMenu+UIScrollViewDelegate.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/PageMenu/Classes/CAPSPageMenu.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/PageMenu/Classes/CAPSPageMenuConfiguration.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/PageMenu/Classes/MenuItemView.swift": [9223372036, 854775807]
